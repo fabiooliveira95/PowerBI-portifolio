@@ -71,7 +71,7 @@ Visão executiva para tomada de decisão
 Clone este repositório:
 ``bash
 git clone https://github.com/fabiooliveira95/PowerBI-portifolio/edit/Analise_de_Vendas/analise-de-vendas/ArquivoCSV
-
+```
 Abra os arquivos .csv
 Execute o notebook de tratamento de dados (se houver)
 Importe os dados tratados no Power BI
