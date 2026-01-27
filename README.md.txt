@@ -1,48 +1,34 @@
 # 📊 Power BI Portfólio
 
-Bem-vindo ao meu portfólio de projetos desenvolvidos com **Power BI**! Este repositório reúne dashboards interativos, análises de dados e visualizações que demonstram minha experiência em Business Intelligence e storytelling com dados.
-
-## 🧠 Sobre mim
-
-Sou apaixonado por transformar dados em insights acionáveis. Utilizo o Power BI para criar soluções visuais que ajudam empresas a tomarem decisões mais inteligentes e estratégicas.
-
-## 📁 Estrutura do Repositório
-
-
-
-
-## 📌 Projetos em destaque
-
-### 1. Análise de Vendas e Varejo
-- **Objetivo:** Identificar padrões de consumo e desempenho por região.
-- **Recursos:** Segmentação por produto, sazonalidade, metas vs. realizado.
-- **Status:** ✅ Finalizado
-
-### 2. Desempenho Financeiro
-- **Objetivo:** Acompanhar KPIs financeiros e operacionais.
-- **Recursos:** Margem de lucro, ROI, fluxo de caixa.
-- **Status:** 🔄 Em desenvolvimento
-
-## 🛠️ Tecnologias utilizadas
-
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Power Query (M Language)
-- Excel / CSV / SQL como fontes de dados
-
-## 📎 Como visualizar os dashboards
-
-Os arquivos `.pbix` são grandes e não estão hospedados diretamente no GitHub. Para acessá-los:
-
-1. Acesse os links abaixo para visualizar os dashboards publicados:
-   - [Dashboard de Vendas](https://app.powerbi.com/...)
-   - [Dashboard Financeiro](https://app.powerbi.com/...)
-
-2. Ou solicite acesso via [LinkedIn](https://www.linkedin.com/in/fabiooliveira95) ou e-mail.
-
-## 📬 Contato
-
-- **LinkedIn:** [Fabio Oliveira](https://www.linkedin.com/in/fabiooliveira95)
-- **E-mail:** fabio.oliveira@email.com
+Bem-vindo ao meu portfólio de projetos desenvolvidos com **Power BI**!  
+Este repositório reúne análises e dashboards criados para demonstrar habilidades em Business Intelligence e visualização de dados.
 
 ---
+
+## 📁 Projeto: Análise de Vendas do Varejo
+
+Este projeto tem como objetivo explorar os dados de vendas no setor varejista, identificando padrões de consumo, desempenho por região e oportunidades de crescimento.
+
+### 🔗 Acesse o arquivo Power BI
+O arquivo `.pbix` está hospedado no OneDrive/SharePoint.  
+Clique no link abaixo para visualizar ou baixar:
+
+👉 [Download do Dashboard de Vendas do Varejo](https://liveestacio-my.sharepoint.com/:u:/g/personal/202411160426_alunos_estacio_br/IQA7z9F0OfJ0RqdbhPQ_CUScAR3BEF7X4tiL3fFt-od4fi0?e=H7cIGT)
+
+---
+
+## 🛠️ Tecnologias utilizadas
+- Power BI Desktop  
+- DAX (Data Analysis Expressions)  
+- Power Query (M Language)  
+- Excel / CSV como fontes de dados  
+
+---
+
+## 📬 Contato
+- **LinkedIn:** https://www.linkedin.com/in/fabio-oliveira-araujo/ 
+- **E-mail:** Fabiooliveira067@hotmail.com 
+
+---
+
+✨ Este repositório será atualizado com novos dashboards e análises conforme os projetos avançam.
