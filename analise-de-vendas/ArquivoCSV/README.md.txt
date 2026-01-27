@@ -101,7 +101,8 @@ Visão executiva para tomada de decisão
 🚀 Como Executar o Projeto
 
 Clone este repositório:
-```
+
+``bash
 git clone https://github.com/fabiooliveira95/PowerBI-portifolio/edit/Analise_de_Vendas/analise-de-vendas/ArquivoCSV
 ```
 Abra os arquivos .csv
